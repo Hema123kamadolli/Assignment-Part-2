@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\bin\Debug\LOOPS.exe.config
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\bin\Debug\LOOPS.exe
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\bin\Debug\LOOPS.pdb
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\obj\Debug\LOOPS.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\obj\Debug\LOOPS.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\obj\Debug\LOOPS.exe
+C:\mphasis-B2\Day-4\Assignments\Part-2Loops\LOOPS\LOOPS\obj\Debug\LOOPS.pdb
